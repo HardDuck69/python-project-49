@@ -16,35 +16,36 @@
 ```brain-gcd``` — игра Игра НОД»
 
 
-<h2 align="center">Установка и первый запуск:</h2>
+Установка и первый запуск:
 
 [![asciicast](https://asciinema.org/a/tj56lutGahNIpGVURAkfkSdCs.svg)](https://asciinema.org/a/tj56lutGahNIpGVURAkfkSdCs)
 
 
-<h2 align="center">Демо всех игр:</h2>
+Демо всех игр:
 
-<h3 align="center">brain-prime demo:</h3>
+brain-prime demo:
 
 
 [![asciicast](https://asciinema.org/a/CXQeqrugLLD7Tk8svncWJqMym.svg)](https://asciinema.org/a/CXQeqrugLLD7Tk8svncWJqMym)
 
 
-<h3 align="center">brain-progression demo:</h3>
+brain-progression demo:
+
 
 [![asciicast](https://asciinema.org/a/fTGEl5Sc9SwF5Yz7L9lcie5Ep.svg)](https://asciinema.org/a/fTGEl5Sc9SwF5Yz7L9lcie5Ep)
 
 
-<h3 align="center">brain-gcd demo:</h3>
+brain-gcd demo:
 
 [![asciicast](https://asciinema.org/a/gAigiXDz0r9uivMCXmf1H5w1p.svg)](https://asciinema.org/a/gAigiXDz0r9uivMCXmf1H5w1p)
 
 
-<h3 align="center">brain-calc demo:</h3>
+brain-calc demo:
 
 
 [![asciicast](https://asciinema.org/a/x3rxGJ7O2pvR3YThhfYPnlhXQ.svg)](https://asciinema.org/a/x3rxGJ7O2pvR3YThhfYPnlhXQ)
 
 
-<h3 align="center">brain-even demo:</h3>
+brain-even demo:
 
 [![asciicast](https://asciinema.org/a/542386.svg)](https://asciinema.org/a/542386)
