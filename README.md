@@ -1,6 +1,10 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/HardDuck69/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/HardDuck69/python-project-49/actions)
 
+brain-prime demo:
+<a href="https://asciinema.org/a/CXQeqrugLLD7Tk8svncWJqMym" target="_blank"><img src="https://asciinema.org/a/CXQeqrugLLD7Tk8svncWJqMym.svg" /></a>
+
+
 brain-progression demo:
 <a href="https://asciinema.org/a/fTGEl5Sc9SwF5Yz7L9lcie5Ep" target="_blank"><img src="https://asciinema.org/a/fTGEl5Sc9SwF5Yz7L9lcie5Ep.svg" /></a>
 
