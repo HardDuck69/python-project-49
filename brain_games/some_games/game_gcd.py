@@ -1,5 +1,5 @@
 from math import gcd
-import random 
+import random
 
 
 Goal = 'Find the greatest common divisor of given numbers.'
