@@ -8,35 +8,43 @@
 <h1 align="center">Brain games (Игры разума). В коллекции: 5 игр</a></h1>
 
 
-## Команды запуска к играм:
+Команды запуска к играм:
 ```brain-prime``` — игра «Простое ли число?»
 ```brain-progression``` — игра «Арифмитическая прогрессия»
 ```brain-even``` — игра «Проверка на чётность»
 ```brain-calc``` — игра Калькулятор»
 ```brain-gcd``` — игра Игра НОД»
 
-##Установка и первый запуск:
+
+<h2 align="center">Установка и первый запуск:</h2>
+
 [![asciicast](https://asciinema.org/a/tj56lutGahNIpGVURAkfkSdCs.svg)](https://asciinema.org/a/tj56lutGahNIpGVURAkfkSdCs)
 
 
-Демо всех игр:
+<h2 align="center">Демо всех игр:</h2>
+
+<h3 align="center">brain-prime demo:</h3>
 
 
-brain-prime demo:
 [![asciicast](https://asciinema.org/a/CXQeqrugLLD7Tk8svncWJqMym.svg)](https://asciinema.org/a/CXQeqrugLLD7Tk8svncWJqMym)
 
 
-brain-progression demo:
+<h3 align="center">brain-progression demo:</h3>
+
 [![asciicast](https://asciinema.org/a/fTGEl5Sc9SwF5Yz7L9lcie5Ep.svg)](https://asciinema.org/a/fTGEl5Sc9SwF5Yz7L9lcie5Ep)
 
 
-brain-gcd demo:
+<h3 align="center">brain-gcd demo:</h3>
+
 [![asciicast](https://asciinema.org/a/gAigiXDz0r9uivMCXmf1H5w1p.svg)](https://asciinema.org/a/gAigiXDz0r9uivMCXmf1H5w1p)
 
 
-brain-calc demo:
+<h3 align="center">brain-calc demo:</h3>
+
+
 [![asciicast](https://asciinema.org/a/x3rxGJ7O2pvR3YThhfYPnlhXQ.svg)](https://asciinema.org/a/x3rxGJ7O2pvR3YThhfYPnlhXQ)
 
 
-brain-even demo:
-<a href="https://asciinema.org/a/542386" target="_blank"><img src="https://asciinema.org/a/542386.svg" /></a>
+<h3 align="center">brain-even demo:</h3>
+
+[![asciicast](https://asciinema.org/a/542386.svg)](https://asciinema.org/a/542386)
