@@ -1,8 +1,9 @@
-import random
+from random import randint, choice
 
 
 Goal = 'What number is missing in the progression?'
 Length = 9
+
 
 def task():
     number = randint(0, 10)
@@ -19,4 +20,4 @@ def task():
 
 
 if __name__ == '__main__':
-    game_task()
+    task()
