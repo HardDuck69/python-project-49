@@ -2,9 +2,6 @@
 [![Actions Status](https://github.com/HardDuck69/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/HardDuck69/python-project-49/actions)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+there%2C+I'm+HardDuck69;Look+at+my+first+project)](https://git.io/typing-svg)
-
-
 <h1 align="center">Brain games (Игры разума). В коллекции: 5 игр</a></h1>
 
 
