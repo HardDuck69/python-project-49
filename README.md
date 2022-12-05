@@ -2,7 +2,7 @@
 [![Actions Status](https://github.com/HardDuck69/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/HardDuck69/python-project-49/actions)
 
 
-<h1 align="center">Brain games (Игры разума). В коллекции: 5 игр</a></h1>
+Brain games (Игры разума). В коллекции: 5 игр
 
 
 Команды запуска к играм:
