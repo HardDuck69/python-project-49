@@ -1,5 +1,5 @@
 import random
-
+import prompt
 
 Goal = 'Answer "yes" if the number is even, otherwise answer "no".'
 print(Goal)
@@ -16,5 +16,5 @@ def task():
     correct_answer = str(is_even(question))
     return question, correct_answer
 
-Congr = 'Congratulations, '
+Congr = prompt.string('Congratulations, ')
 print("Congr, {0}!\n".format(name))
