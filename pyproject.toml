@@ -10,6 +10,15 @@ packages = [
 	{ include = "brain_games" }
 ]
 
+
+classifiers = [
+    "Topic :: Software Development :: Build Tools",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Language :: English",
+    "Operation System :: Ubuntu 22.04.1 :: Linux,
+]
+
+
 [tool.poetry.dependencies]
 python = "^3.10"
 prompt = "^0.4.1"
