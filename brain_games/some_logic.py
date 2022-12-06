@@ -23,7 +23,7 @@ def play(game):
         if round(question, correct_answer):
             count += 1
         else:
-            print(f"Let's try again, {name}!")
+            print(f"Let's try again, {}!".format(name))
             break
     else:
-        print(f'Congratulations, {name}!')
+        print(f'Congratulations, {}!'.format(name))
