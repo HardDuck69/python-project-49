@@ -18,7 +18,7 @@ def play(game):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     if name:
-        print('Hello, {}!'.format(name))
+        print(f'Hello, {name}!')
     print(game.Goal)
     count = 0
     while count != 3:
@@ -26,7 +26,7 @@ def play(game):
         if round(question, correct_answer):
             count += 1
         else:
-            print(f"Let's try again, {}!".format(name))
+            print(f"Let's try again, {name}!")
             break
     else:
-        print(f'Congratulations, {}!'.format(name))
+        print(f'Congratulations, {name}!')
