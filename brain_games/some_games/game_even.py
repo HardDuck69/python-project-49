@@ -1,4 +1,5 @@
-import random
+#!/usr/bin/env python3
+from random import randint
 import prompt
 
 Goal = 'Answer "yes" if the number is even, otherwise answer "no".'
