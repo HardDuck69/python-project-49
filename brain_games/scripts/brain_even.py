@@ -2,7 +2,7 @@
 
 
 from brain_games.some_logic import play
-from brain_games.some_logic import game_even
+from brain_games.some_games import game_even
 
 
 def main():
