@@ -15,7 +15,10 @@ Correct answer was {correct_answer}")
 
 
 def play(game):
-    name = welcome_user()
+    print('Welcome to the Brain Games!')
+    name = prompt.string('May I have your name? ')
+    if name:
+        print('Hello, {}!'.format(name))
     print(game.Goal)
     count = 0
     while count != 3:
