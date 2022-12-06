@@ -2,7 +2,7 @@ import random
 
 
 Goal = 'Answer "yes" if the number is even, otherwise answer "no".'
-
+print(Goal)
 
 def is_even(question):
     if question % 2 == 0:
