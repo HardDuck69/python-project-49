@@ -16,7 +16,7 @@ Correct answer was {correct_answer}")
 
 def play(game):
     name = welcome_user()
-    print(game.task)
+    print(game.Goal)
     count = 0
     while count != 3:
         question, correct_answer = game.task()
