@@ -15,3 +15,6 @@ def task():
     question = random.randint(1, 30)
     correct_answer = str(is_even(question))
     return question, correct_answer
+
+Congr = 'Congratulations, '
+print("Congr, {0}!\n".format(name))
