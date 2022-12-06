@@ -1,7 +1,12 @@
+#!/usr/bin/env python3
+
+
 from random import randint, choice
 
 
 Goal = 'What number is missing in the progression?'
+
+
 Length = 9
 
 
