@@ -15,7 +15,7 @@ classifiers = [
     "Topic :: Software Development :: Build Tools",
     "Topic :: Software Development :: Libraries :: Python Modules",
     "Language :: English",
-    "Operation System :: Ubuntu 22.04.1 :: Linux,
+    "Operation System :: Ubuntu 22.04.1 :: Linux",
 ]
 
 
