@@ -4,7 +4,11 @@
 [![github-actions](https://github.com/HardDuck69/python-project-49/actions/workflows/github-actions.yml/badge.svg)](https://github.com/HardDuck69/python-project-49/actions/workflows/github-actions.yml)
 
 
-Brain games (Игры разума). В коллекции: 5 игр
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C50000&center=true&width=435&lines=Hello+there!+I'm+HardDuck69;Look+at+my+first+python-project)](https://git.io/typing-svg)
+
+
+<h1 align="center">Brain Games (Игры разума)</h1>
+<h3 align="center">В коллекции: 5 игр &#129414;</h3>
 
 
 Команды запуска к играм:
@@ -53,4 +57,4 @@ brain-calc demo:
 
 brain-even demo:
 
-[![asciicast](https://asciinema.org/a/542386.svg)](https://asciinema.org/a/542386)
+[![asciicast](https://asciinema.org/a/MdLoIVXybSoCEkQYcADB2Y6gA.svg)](https://asciinema.org/a/MdLoIVXybSoCEkQYcADB2Y6gA)
