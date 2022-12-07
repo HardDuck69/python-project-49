@@ -2,7 +2,7 @@ import prompt
 
 
 def round(question, correct_answer):
-    print(f"Question: {question}")
+    print(f'Question: {question}')
     answer = prompt.string('Your answer: ')
     if correct_answer == answer:
         print('Correct!')
