@@ -5,7 +5,7 @@ RULE = 'What number is missing in the progression?'
 LENGHT = 9
 
 
-def task():
+def get_game():
     number = randint(0, 10)
     step = randint(1, 10)
     progression = []
@@ -20,4 +20,4 @@ def task():
 
 
 if __name__ == '__main__':
-    task()
+    get_game()

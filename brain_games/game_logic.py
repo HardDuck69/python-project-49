@@ -20,7 +20,7 @@ def start_game(game):
     print(game.RULE)
     count = 0
     while count != 3:
-        question, correct_answer = game.task()
+        question, correct_answer = game.get_game()
         if round(question, correct_answer):
             count += 1
         else:

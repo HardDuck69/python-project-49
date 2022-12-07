@@ -13,7 +13,7 @@ def prime(num):
     return True
 
 
-def task():
+def get_game():
     question = randint(1, 100)
     if prime(question):
         correct_answer = 'yes'
