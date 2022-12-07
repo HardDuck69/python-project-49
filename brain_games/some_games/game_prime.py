@@ -4,7 +4,7 @@
 from random import randint
 
 
-Goal = 'Answer "yes" if given number is prime. Otherwise answer "no"'
+Goal = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
 
 def prime(num):
