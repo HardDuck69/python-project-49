@@ -11,6 +11,20 @@
 <h3 align="center">В коллекции: 5 игр &#129414;</h3>
 
 
+Сетап:
+Python ^3.10
+Flake8 ^6.0.0
+Prompt ^0.4.1
+Poetry 1.2.2
+
+
+Используемые команды Makefile: 
+Make install - установка пакетов #poetry install
+Make build - сборка и отладка пакетов #poetry build
+Make package-install - установка пакетов в систему #poetry -m pip install --force-reinstall dist/*.whl
+
+
+
 Команды запуска к играм:
 
 

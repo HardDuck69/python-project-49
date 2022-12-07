@@ -2,9 +2,6 @@ import random
 import operator
 
 
-Goal = 'What is the result of the expression?'
-
-
 def task():
     number1 = random.randint(1, 30)
     number2 = random.randint(1, 30)

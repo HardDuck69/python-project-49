@@ -1,20 +1,17 @@
-#!/usr/bin/env python3
-
-
 from random import randint
 
 
-Goal = 'Answer "yes" if the number is even, otherwise answer "no".'
-
-
-def is_even(question):
-    if question % 2 == 0:
-        return 'yes'
+def is_even(number):
+    if number % 2 == 0:
+        return True
     else:
-        return 'no'
+        return False
 
 
 def task():
     question = randint(1, 30)
-    correct_answer = str(is_even(question))
+    if is_even(question):
+        correct_answer = 'yes'
+    else:
+        correct_answer = 'no'
     return question, correct_answer

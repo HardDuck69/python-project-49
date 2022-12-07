@@ -8,17 +8,17 @@ def round(question, correct_answer):
         print('Correct!')
         return True
     else:
-        print(f"{answer} is wrong answer ;(. \
-Correct answer was {correct_answer}")
+        print(f"'{answer}' is wrong answer ;(. \
+Correct answer was '{correct_answer}'")
         return False
 
 
-def play(game):
+def start_game(game):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
-    if name:
-        print(f'Hello, {name}!')
-    print(game.Goal)
+    print(f'Hello, {name}!')
+    Goal = 'Answer "yes" if the number is even, otherwise answer "no".'
+    print(Goal)
     count = 0
     while count != 3:
         question, correct_answer = game.task()

@@ -1,20 +1,14 @@
-#!/usr/bin/env python3
-
-
 from random import randint, choice
 
 
-Goal = 'What number is missing in the progression?'
-
-
-Length = 9
+LENGHT = 9
 
 
 def task():
     number = randint(0, 10)
     step = randint(1, 10)
     progression = []
-    for i in range(Length):
+    for i in range(LENGHT):
         next_step = number + step * i
         progression.append(str(next_step))
     secret_index = choice(range(len(progression) - 1))
