@@ -1,6 +1,9 @@
 from random import randint
 
 
+RULE = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+
+
 def prime(num):
     if num == 1:
         return False

@@ -17,8 +17,7 @@ def start_game(game):
     print('Welcome to the Brain Games!')
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
-    Goal = 'Answer "yes" if the number is even, otherwise answer "no".'
-    print(Goal)
+    print(game.RULE)
     count = 0
     while count != 3:
         question, correct_answer = game.task()
