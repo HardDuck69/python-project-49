@@ -5,7 +5,7 @@ from brain_games.some_games import game_calc
 
 
 def main():
-    play(game_calc)
+    start_game(game_calc)
 
 
 if __name__ == '__main__':
