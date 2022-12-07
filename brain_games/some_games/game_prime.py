@@ -16,7 +16,7 @@ def prime(num):
     return True
 
 
-def question_answer():
+def task():
     question = randint(1, 100)
     if prime(question):
         correct_answer = 'yes'
