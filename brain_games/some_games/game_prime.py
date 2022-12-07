@@ -14,9 +14,9 @@ def prime(num):
 
 
 def get_game():
-    question = randint(1, 100)
-    if prime(question):
+    random_number = randint(1, 100)
+    if prime(random_number):
         correct_answer = 'yes'
     else:
         correct_answer = 'no'
-    return question, correct_answer
+    return random_number, correct_answer

@@ -12,9 +12,9 @@ def is_even(number):
 
 
 def get_game():
-    question = randint(1, 30)
-    if is_even(question):
+    random_number = randint(1, 30)
+    if is_even(random_number):
         correct_answer = 'yes'
     else:
         correct_answer = 'no'
-    return question, correct_answer
+    return random_number, correct_answer
