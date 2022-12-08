@@ -12,12 +12,12 @@ def start_game(game):
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
         if correct_answer == answer:
-                   print('Correct!')
-                   count += 1
+            print('Correct!')
+            count += 1
         else:
-                   print(f"'{answer}' is wrong answer ;(. \
+            print(f"'{answer}' is wrong answer ;(. \
 Correct answer was '{correct_answer}'")
-                   print(f"Let's try again, {name}!")
-                   break
+            print(f"Let's try again, {name}!")
+            break
     else:
         print(f'Congratulations, {name}!')
