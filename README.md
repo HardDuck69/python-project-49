@@ -10,12 +10,13 @@
 <h1 align="center">Brain Games (Игры разума)</h1>
 <h3 align="center">В коллекции: 5 игр &#129414;</h3>
 
-###Клонировать репозиторий:
+### Клонировать репозиторий:
 ***
 git clone https://github.com/HardDuck69/python-project-49.git
+***
 
 ### Setup:
-***
+
 Python ^3.10
 
 Flake8 ^6.0.0
@@ -28,7 +29,9 @@ Poetry 1.2.2
 ### Используемые команды Makefile: 
 ***
 Make install - установка пакетов #poetry install
+
 Make build - сборка и отладка пакетов #poetry build
+
 Make package-install - установка пакетов в систему #poetry -m pip install --force-reinstall dist/*.whl
 
 
