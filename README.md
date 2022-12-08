@@ -11,7 +11,7 @@
 <h3 align="center">В коллекции: 5 игр &#129414;</h3>
 
 ### Клонировать репозиторий:
-***
+
 git clone https://github.com/HardDuck69/python-project-49.git
 ***
 
@@ -36,7 +36,7 @@ Make package-install - установка пакетов в систему #poet
 
 
 
-Команды запуска к играм:
+### Команды запуска к играм:
 
 
 ```brain-prime``` — игра «Простое ли число?»
@@ -50,12 +50,12 @@ Make package-install - установка пакетов в систему #poet
 ```brain-gcd``` — игра Игра НОД»
 
 
-Установка и первый запуск:
+### Установка и первый запуск:
 
 [![asciicast](https://asciinema.org/a/tj56lutGahNIpGVURAkfkSdCs.svg)](https://asciinema.org/a/tj56lutGahNIpGVURAkfkSdCs)
 
 
-Демо всех игр:
+<h3 align="center">Демо всех игр:</h3>
 
 brain-prime demo:
 
