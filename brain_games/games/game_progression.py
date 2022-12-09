@@ -1,4 +1,5 @@
 from random import randint, choice
+
 RULE = 'What number is missing in the progression?'
 LENGHT = 9
 

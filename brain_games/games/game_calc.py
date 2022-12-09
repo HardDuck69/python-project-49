@@ -1,5 +1,6 @@
 import random
 import operator
+
 RULE = 'What is the result of the expression?'
 OPERATORS = {
     '+': operator.add,
